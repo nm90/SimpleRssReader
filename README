@@ -1,0 +1,13 @@
+This is a simple RSS reader written by Neil Morris for Mobile Programming
+cs 407 at UW-Madison February 2012 with Suman Banerjee.
+
+The initial screen allows the user to enter in the url of an rss feed to be
+saved to the database.  If the url is improperly formatted it shouldn't
+be added to the database, but should still switch screens to the list of
+saved RSS feeds of the proper format.
+
+From there the user can select a feed to view the headlines of articles
+which are clickable to bring up the full description view.
+
+Using the menu button, the user is able to exit all associated activities
+with one click in place of repetitive pressing of the back button.
