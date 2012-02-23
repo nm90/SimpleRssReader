@@ -13,6 +13,9 @@ import javax.xml.parsers.SAXParserFactory;
 import org.xml.sax.Attributes;
 import org.xml.sax.helpers.DefaultHandler;
 
+/**
+ *  Code provided by Suman Banerjee in cs407 
+ */
 public class RSSParser extends DefaultHandler
 {  
     private String        urlString;
