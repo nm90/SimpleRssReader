@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello, Welcome to Neil\'s RSSReader!</string>
+    <string name="app_name">RSSReader</string>
+    <string name="rss_feeds">Subscribed RSS feeds</string>
+    <string name="headlines">Headlines from feed</string>
+    <string name="exit">Exit RssReader</string>
+
+</resources>
